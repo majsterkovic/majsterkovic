@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![gitartwork](gitartwork.svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=majsterkovic&show_icons=true&theme=dark)
 
