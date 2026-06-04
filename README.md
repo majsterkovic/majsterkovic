@@ -46,10 +46,7 @@ Passionate about **AI and its real-world applications** — from **vibe coding**
 
 <br/>
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=majsterkovic&theme=onedark&column=5)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
+<img src="https://github-readme-stats-one.vercel.app/api?username=majsterkovic&show_icons=true&theme=dark" alt="majsterkovic's GitHub stats" height="180" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=majsterkovic&theme=dark" alt="majsterkovic's streak stats" height="180" />
 
 <br/><br/>
@@ -57,12 +54,11 @@ Passionate about **AI and its real-world applications** — from **vibe coding**
 <img src="https://komarev.com/ghpvc/?username=majsterkovic&color=blueviolet" alt="profile views"/>
 
 <!-- 
-TIP: Jeśli chcesz przywrócić klasyczną kartę statystyk (github-readme-stats), wdrożyj własną darmową instancję na Vercel:
+TIP: Jeśli chcesz wdrożyć własną darmową instancję statystyk na Vercel (dla 100% stabilności i obsługi prywatnych repozytoriów):
 1. Skopiuj (Fork) repozytorium: https://github.com/anuraghazra/github-readme-stats
 2. Zaloguj się na Vercel.com, połącz z GitHubem i zaimportuj to repozytorium.
 3. W opcjach wdrożenia (Environment Variables) dodaj zmienną PAT_1 z Twoim wygenerowanym tokenem GitHub (PAT).
-4. Kliknij Deploy i podmień poniższą kartę na Twój nowy link:
-<img src="https://TWÓJ-PROJEKT.vercel.app/api?username=majsterkovic&show_icons=true&theme=dark" height="180" />
+4. Kliknij Deploy i podmień link do statystyk na Twój nowy adres URL.
 -->
 
 </div>
