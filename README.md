@@ -1,65 +1,41 @@
-# 👋 Cześć! I'm majsterkovic
+# hi, i'm majsterkovic 👋
 
-<p align="left">
-  <a href="mailto:majsterkovic@outlook.com">
-    <img src="https://img.shields.io/badge/Email-majsterkovic%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
-  </a>
-</p>
+> MSc in Computer Science.
+> i direct AI agents to build and ship real things.
 
-Passionate about **AI and its real-world applications** — from **vibe coding** with Claude & Cursor to shipping fast without the boilerplate grind. Exploring **agentic AI** and autonomous workflows. Also into the **stock market**, **machine learning**, and building tools that actually work.
+into agents, multi-agent systems, MCP — and markets, chips, photos.
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🚀 shipping
 
-#### 🤖 AI / Machine Learning
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![Google ADK](https://img.shields.io/badge/Google%20ADK-%234285F4.svg?style=flat-square&logo=google&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+- a stock analytics site (GPW + US): own MCP server, momentum/seasonality/sector tooling, IKE calculator
+- Hermes — personal agent on Telegram, Obsidian-backed, GitOps'd VPS
+- a cooking site, a trail-weather app, assorted one-off tools
 
-#### 💻 Backend
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+### 🧭 what drives me
 
-#### 📱 Mobile & Frontend
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
-![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-Claude%20%7C%20Cursor-9b51e0?style=flat-square&logo=anthropic&logoColor=white)
+- 🤖 agents that do real work, not demos
+- 📈 markets (GPW + US) — data, momentum, experiments
+- 📷 photography — RAW, grading, phone + camera workflows
+- 🎧📚 way too many semiconductor / AI-hardware podcasts
 
-#### ⚙️ DevOps
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+### 🧰 everyday stack
 
----
-
-### 🚀 What I'm working on
-- 📈 **Finchat** — An intelligent financial chat assistant powered by AI (Agentic Orchestrator + Interactive Frontend).
-- 🤖 Custom **Agentic Workflows** & AI tools built to bypass the boilerplate.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Google ADK](https://img.shields.io/badge/ADK-4285F4?style=flat-square&logo=google&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
 
 <div align="center">
-
-![gitartwork](gitartwork.svg)
-
-<br/>
-
-<img src="https://github-readme-stats-one.vercel.app/api?username=majsterkovic&show_icons=true&theme=dark" alt="majsterkovic's GitHub stats" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=majsterkovic&theme=dark" alt="majsterkovic's streak stats" height="180" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=majsterkovic&color=blueviolet" alt="profile views"/>
-
-<!-- 
-TIP: Jeśli chcesz wdrożyć własną darmową instancję statystyk na Vercel (dla 100% stabilności i obsługi prywatnych repozytoriów):
-1. Skopiuj (Fork) repozytorium: https://github.com/anuraghazra/github-readme-stats
-2. Zaloguj się na Vercel.com, połącz z GitHubem i zaimportuj to repozytorium.
-3. W opcjach wdrożenia (Environment Variables) dodaj zmienną PAT_1 z Twoim wygenerowanym tokenem GitHub (PAT).
-4. Kliknij Deploy i podmień link do statystyk na Twój nowy adres URL.
--->
-
+<img src="https://github-readme-stats.vercel.app/api?username=majsterkovic&show_icons=true&theme=transparent&hide_border=true&title_color=D97757&icon_color=D97757" height="165" />
+<img src="https://streak-stats.demolab.com/?user=majsterkovic&theme=transparent&hide_border=true" height="165" />
 </div>
 
+📌 most of the good stuff is private, sorry
+
+📬 majsterkovic@outlook.com
